@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/luismgal/ContosoAir/_apis/build/status/pinavetas.ContosoAir?branchName=master)](https://dev.azure.com/luismgal/ContosoAir/_build/latest?definitionId=1&branchName=master)
 
 
 # Microsoft.Github CI Demo
